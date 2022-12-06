@@ -1,0 +1,15 @@
+C:\Users\thatb\.vscode\source\MyImage\bin\Debug\net6.0\MyImage.exe
+C:\Users\thatb\.vscode\source\MyImage\bin\Debug\net6.0\MyImage.deps.json
+C:\Users\thatb\.vscode\source\MyImage\bin\Debug\net6.0\MyImage.runtimeconfig.json
+C:\Users\thatb\.vscode\source\MyImage\bin\Debug\net6.0\MyImage.dll
+C:\Users\thatb\.vscode\source\MyImage\bin\Debug\net6.0\MyImage.pdb
+C:\Users\thatb\.vscode\source\MyImage\obj\Debug\net6.0\MyImage.csproj.AssemblyReference.cache
+C:\Users\thatb\.vscode\source\MyImage\obj\Debug\net6.0\MyImage.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\thatb\.vscode\source\MyImage\obj\Debug\net6.0\MyImage.AssemblyInfoInputs.cache
+C:\Users\thatb\.vscode\source\MyImage\obj\Debug\net6.0\MyImage.AssemblyInfo.cs
+C:\Users\thatb\.vscode\source\MyImage\obj\Debug\net6.0\MyImage.csproj.CoreCompileInputs.cache
+C:\Users\thatb\.vscode\source\MyImage\obj\Debug\net6.0\MyImage.dll
+C:\Users\thatb\.vscode\source\MyImage\obj\Debug\net6.0\refint\MyImage.dll
+C:\Users\thatb\.vscode\source\MyImage\obj\Debug\net6.0\MyImage.pdb
+C:\Users\thatb\.vscode\source\MyImage\obj\Debug\net6.0\MyImage.genruntimeconfig.cache
+C:\Users\thatb\.vscode\source\MyImage\obj\Debug\net6.0\ref\MyImage.dll
